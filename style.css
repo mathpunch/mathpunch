@@ -108,18 +108,18 @@ footer {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background: radial-gradient(circle, black 20%, transparent 20%) center/15px 15px, radial-gradient(circle, transparent 20%, black 20%) center/15px 15px;
+    background: radial-gradient(circle, black 20%, transparent 20%) center/30px 30px, radial-gradient(circle, transparent 20%, black 20%) center/30px 30px;
     animation: blackWidowPulse 6s infinite alternate;
 }
 
 @keyframes blackWidowPulse {
     0% {
-        background-size: 15px 15px;
+        background-size: 30px 30px;
     }
     50% {
-        background-size: 25px 25px;
+        background-size: 50px 50px;
     }
     100% {
-        background-size: 15px 15px;
+        background-size: 30px 30px;
     }
 }
