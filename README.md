@@ -1,1 +1,1 @@
-Our educational mathematics website offers safe and free access to resources spanning grades 1 through 12.
+Welcome im the owner of mathpunch V3 and Red X Hub
